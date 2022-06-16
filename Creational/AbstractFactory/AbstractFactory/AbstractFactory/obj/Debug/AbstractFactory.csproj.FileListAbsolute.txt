@@ -1,0 +1,8 @@
+C:\Users\j6705\Desktop\DesignPatterns\Creational\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\j6705\Desktop\DesignPatterns\Creational\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\j6705\Desktop\DesignPatterns\Creational\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\j6705\Desktop\DesignPatterns\Creational\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\j6705\Desktop\DesignPatterns\Creational\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.SuggestedBindingRedirects.cache
+C:\Users\j6705\Desktop\DesignPatterns\Creational\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\j6705\Desktop\DesignPatterns\Creational\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\j6705\Desktop\DesignPatterns\Creational\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
