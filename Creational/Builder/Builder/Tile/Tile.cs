@@ -1,0 +1,4 @@
+﻿namespace Builder
+{
+    class Tile { }
+}
