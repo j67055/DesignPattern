@@ -3,7 +3,7 @@ using System.Text;
 
 namespace AbstractFactory
 {
-    internal abstract class Race
+    abstract class Race
     {
         private List<Worker> workers = new List<Worker>();
         private List<Unit> units = new List<Unit>();

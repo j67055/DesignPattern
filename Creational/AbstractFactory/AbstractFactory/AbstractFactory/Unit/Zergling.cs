@@ -1,6 +1,6 @@
 ﻿namespace AbstractFactory
 {
-    internal class Zergling : Unit
+    class Zergling : Unit
     {
         public override string ToString()
             => "Zergling";

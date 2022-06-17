@@ -1,6 +1,6 @@
 ﻿namespace AbstractFactory
 {
-    internal class Probe : Worker
+    class Probe : Worker
     {
         public override string ToString()
             => "Probe";

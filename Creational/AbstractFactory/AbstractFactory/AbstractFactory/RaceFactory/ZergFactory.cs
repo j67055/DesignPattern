@@ -1,6 +1,6 @@
 ﻿namespace AbstractFactory
 {
-    internal class ZergFactory : RaceFactory
+    class ZergFactory : RaceFactory
     {
         public override Race createRace()
             => new Zerg();

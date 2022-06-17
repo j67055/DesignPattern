@@ -1,6 +1,6 @@
 ﻿namespace AbstractFactory
 {
-    internal class Zealot : Unit
+    class Zealot : Unit
     {
         public override string ToString()
             => "Zealot";

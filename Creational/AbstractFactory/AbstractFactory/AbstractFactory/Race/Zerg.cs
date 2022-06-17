@@ -1,6 +1,6 @@
 ﻿namespace AbstractFactory
 {
-    internal class Zerg : Race
+    class Zerg : Race
     {
         public override string ToString()
             => "Zerg" + base.ToString();

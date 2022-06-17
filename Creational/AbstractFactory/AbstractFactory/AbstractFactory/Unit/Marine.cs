@@ -1,6 +1,6 @@
 ﻿namespace AbstractFactory
 {
-    internal class Marine : Unit
+    class Marine : Unit
     {
         public override string ToString()
             => "Marine";

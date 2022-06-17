@@ -2,7 +2,7 @@
 
 namespace AbstractFactory
 {
-    internal class Starcraft
+    class Starcraft
     {
         static void Main(string[] args)
         {

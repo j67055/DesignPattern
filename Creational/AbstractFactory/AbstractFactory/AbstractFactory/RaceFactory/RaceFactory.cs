@@ -1,6 +1,6 @@
 ﻿namespace AbstractFactory
 {
-    internal abstract class RaceFactory
+    abstract class RaceFactory
     {
         public abstract Race createRace();
         public abstract Worker createWorker();

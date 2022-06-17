@@ -1,6 +1,6 @@
 ﻿namespace AbstractFactory
 {
-    internal class TerranFactory : RaceFactory
+    class TerranFactory : RaceFactory
     {
         public override Race createRace()
             => new Terran();

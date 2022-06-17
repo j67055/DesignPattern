@@ -1,6 +1,6 @@
 ﻿namespace AbstractFactory
 {
-    internal abstract class Unit
+    abstract class Unit
     {
         public abstract override string ToString();
     }

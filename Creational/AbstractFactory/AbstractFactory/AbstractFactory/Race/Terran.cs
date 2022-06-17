@@ -1,6 +1,6 @@
 ﻿namespace AbstractFactory
 {
-    internal class Terran : Race
+    class Terran : Race
     {
         public override string ToString()
             => "Terran" + base.ToString();
