@@ -1,1 +1,1 @@
-![AbstractFactory](https://user-images.githubusercontent.com/69672253/174429184-944d5c19-437e-463e-b1c9-925843c32332.png)
+![FactoryMethod](https://user-images.githubusercontent.com/69672253/174429197-fcce0532-ae4a-4529-9c35-cf8d870151ec.png)
