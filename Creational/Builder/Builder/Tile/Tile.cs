@@ -1,4 +1,4 @@
 ﻿namespace Builder
 {
-    class Tile { }
+    abstract class Tile { }
 }
