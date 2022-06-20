@@ -1,2 +1,1 @@
-![Prototype](https://user-images.githubusercontent.com/69672253/174474716-5984ef86-4470-4621-8bc7-1c265e48d3b9.png)
-
+![Prototype](https://user-images.githubusercontent.com/69672253/174576472-9674cbf6-8ea7-404f-8bb0-2f52b939a907.png)
