@@ -50,7 +50,7 @@
     <Compile Include="MapPalette\MapPalette.cs" />
     <Compile Include="Resource\Mineral.cs" />
     <Compile Include="Resource\Resource.cs" />
-    <Compile Include="Tile\Ground.cs" />
+    <Compile Include="Tile\Land.cs" />
     <Compile Include="Tile\Sea.cs" />
     <Compile Include="Tile\Tile.cs" />
     <Compile Include="Tile\TileShape.cs" />

@@ -1,4 +1,4 @@
 ﻿namespace Builder
 {
-    enum TileType { Ground, Sea }
+    enum TileType { Land, Sea }
 }

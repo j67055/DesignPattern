@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Resource\Gas.cs" />
-    <Compile Include="Tile\Ground.cs" />
+    <Compile Include="Tile\Land.cs" />
     <Compile Include="Map\Map.cs" />
     <Compile Include="MapBuilder\IMapBuilder.cs" />
     <Compile Include="Resource\Mineral.cs" />

@@ -6,11 +6,3 @@ C:\Users\j6705\Desktop\DesignPatterns\Creational\Builder\Builder\obj\Debug\Build
 C:\Users\j6705\Desktop\DesignPatterns\Creational\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
 C:\Users\j6705\Desktop\DesignPatterns\Creational\Builder\Builder\obj\Debug\Builder.exe
 C:\Users\j6705\Desktop\DesignPatterns\Creational\Builder\Builder\obj\Debug\Builder.pdb
-C:\Users\j6705\Desktop\Git\DesignPattern\Creational\Builder\Builder\bin\Debug\Builder.exe.config
-C:\Users\j6705\Desktop\Git\DesignPattern\Creational\Builder\Builder\bin\Debug\Builder.exe
-C:\Users\j6705\Desktop\Git\DesignPattern\Creational\Builder\Builder\bin\Debug\Builder.pdb
-C:\Users\j6705\Desktop\Git\DesignPattern\Creational\Builder\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
-C:\Users\j6705\Desktop\Git\DesignPattern\Creational\Builder\Builder\obj\Debug\Builder.csproj.SuggestedBindingRedirects.cache
-C:\Users\j6705\Desktop\Git\DesignPattern\Creational\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
-C:\Users\j6705\Desktop\Git\DesignPattern\Creational\Builder\Builder\obj\Debug\Builder.exe
-C:\Users\j6705\Desktop\Git\DesignPattern\Creational\Builder\Builder\obj\Debug\Builder.pdb

@@ -1,8 +1,8 @@
 ﻿namespace Builder
 {
-    class Mineral : Resource
+    class Land : Tile
     {
         public override string ToString()
-            => "Mineral";
+            => "Land";
     }
 }

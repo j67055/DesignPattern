@@ -24,8 +24,8 @@
         {
             switch (type)
             {
-                case TileType.Ground:
-                    map.addTile(new Ground());
+                case TileType.Land:
+                    map.addTile(new Land());
                     break;
                 case TileType.Sea:
                     map.addTile(new Sea());

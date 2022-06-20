@@ -26,7 +26,7 @@ namespace Builder
 
         static Map CreateFightingSpirit(IMapBuilder builder)
         {
-            builder.buildTile(TileType.Ground);
+            builder.buildTile(TileType.Land);
 
             builder.buildResource(ResourceType.Mineral);
             builder.buildResource(ResourceType.Mineral);

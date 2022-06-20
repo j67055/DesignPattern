@@ -17,7 +17,7 @@ namespace Prototype
             Console.WriteLine(lostTemple.ToString());
 
             Map fightingSpirit = new Map("Fighting Spirit");
-            palette = new MapPalette(new Ground(), new Gas());
+            palette = new MapPalette(new Land(), new Gas());
 
             fightingSpirit.addTile(palette.createTile(TileShape.Square));
             fightingSpirit.addTile(palette.createTile(TileShape.Cicle));
