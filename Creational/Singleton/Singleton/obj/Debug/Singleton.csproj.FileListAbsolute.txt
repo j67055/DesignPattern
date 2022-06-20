@@ -1,0 +1,16 @@
+C:\Users\j6705\Desktop\DesignPatterns\Creational\Singleton\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\j6705\Desktop\DesignPatterns\Creational\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\Users\j6705\Desktop\DesignPatterns\Creational\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Users\j6705\Desktop\DesignPatterns\Creational\Singleton\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+C:\Users\j6705\Desktop\DesignPatterns\Creational\Singleton\Singleton\obj\Debug\Singleton.csproj.SuggestedBindingRedirects.cache
+C:\Users\j6705\Desktop\DesignPatterns\Creational\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\j6705\Desktop\DesignPatterns\Creational\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\j6705\Desktop\DesignPatterns\Creational\Singleton\Singleton\obj\Debug\Singleton.pdb
+C:\Users\j6705\Desktop\Git\DesignPattern\Creational\Singleton\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\j6705\Desktop\Git\DesignPattern\Creational\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\Users\j6705\Desktop\Git\DesignPattern\Creational\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Users\j6705\Desktop\Git\DesignPattern\Creational\Singleton\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+C:\Users\j6705\Desktop\Git\DesignPattern\Creational\Singleton\Singleton\obj\Debug\Singleton.csproj.SuggestedBindingRedirects.cache
+C:\Users\j6705\Desktop\Git\DesignPattern\Creational\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\j6705\Desktop\Git\DesignPattern\Creational\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\j6705\Desktop\Git\DesignPattern\Creational\Singleton\Singleton\obj\Debug\Singleton.pdb
