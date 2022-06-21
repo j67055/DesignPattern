@@ -13,7 +13,7 @@ namespace Builder
             Console.WriteLine(fightingSpirit.ToString());
         }
 
-        static Map CreateLostTemple(IMapBuilder builder)
+        static Map CreateLostTemple(MapBuilder builder)
         {
             builder.buildTile(TileType.Sea);
             builder.buildTile(TileType.Sea);
@@ -24,7 +24,7 @@ namespace Builder
             return builder.getMap();
         }
 
-        static Map CreateFightingSpirit(IMapBuilder builder)
+        static Map CreateFightingSpirit(MapBuilder builder)
         {
             builder.buildTile(TileType.Land);
 

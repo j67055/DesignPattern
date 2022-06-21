@@ -3,6 +3,6 @@
     class Gas : Resource
     {
         public override string ToString()
-            => "Gas";
+            => nameof(Gas);
     }
 }

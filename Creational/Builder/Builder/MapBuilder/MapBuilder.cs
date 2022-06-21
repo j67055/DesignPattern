@@ -1,6 +1,6 @@
 ﻿namespace Builder
 {
-    interface IMapBuilder
+    interface MapBuilder
     {
         void buildResource(ResourceType type);
         void buildTile(TileType type);

@@ -8,6 +8,6 @@
             => new Land(this);
 
         public override string ToString()
-            => "Land" + "(" + base.ToString() + ")";
+            => nameof(Land) + "(" + base.ToString() + ")";
     }
 }

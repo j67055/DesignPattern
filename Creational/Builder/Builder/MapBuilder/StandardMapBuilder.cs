@@ -1,6 +1,6 @@
 ﻿namespace Builder
 {
-    class StandardMapBuilder : IMapBuilder
+    class StandardMapBuilder : MapBuilder
     {
         private Map map;
 

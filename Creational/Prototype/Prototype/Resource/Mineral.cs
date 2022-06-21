@@ -9,6 +9,6 @@
             => new Mineral(this);
 
         public override string ToString()
-            => "Mineral" + "(" + base.ToString() + ")";
+            => nameof(Mineral) + "(" + base.ToString() + ")";
     }
 }

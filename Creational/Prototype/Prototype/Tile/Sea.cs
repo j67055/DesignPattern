@@ -8,6 +8,6 @@
         public override object Clone()
             => new Sea(this);
         public override string ToString()
-            => "Sea" + "(" + base.ToString() + ")";
+            => nameof(Sea) + "(" + base.ToString() + ")";
     }
 }

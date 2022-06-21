@@ -8,6 +8,6 @@
         public override object Clone()
             => new Gas(this);
         public override string ToString()
-            => "Gas" + "(" + base.ToString() + ")";
+            => nameof(Gas) + "(" + base.ToString() + ")";
     }
 }

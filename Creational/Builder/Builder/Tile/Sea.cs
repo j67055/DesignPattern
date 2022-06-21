@@ -3,6 +3,6 @@
     class Sea : Tile
     {
         public override string ToString()
-            => "Sea";
+            => nameof(Sea);
     }
 }

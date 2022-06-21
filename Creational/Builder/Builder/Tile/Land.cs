@@ -3,6 +3,6 @@
     class Land : Tile
     {
         public override string ToString()
-            => "Land";
+            => nameof(Land);
     }
 }
