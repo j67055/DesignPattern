@@ -3,6 +3,6 @@
     class Drone : Worker
     {
         public override string ToString()
-            => "Drone";
+            => nameof(Drone);
     }
 }

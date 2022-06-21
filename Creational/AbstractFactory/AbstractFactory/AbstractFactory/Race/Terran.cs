@@ -3,6 +3,6 @@
     class Terran : Race
     {
         public override string ToString()
-            => "Terran" + base.ToString();
+            => nameof(Zerg) + base.ToString();
     }
 }

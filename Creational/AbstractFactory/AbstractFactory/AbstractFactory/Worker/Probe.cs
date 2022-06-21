@@ -3,6 +3,6 @@
     class Probe : Worker
     {
         public override string ToString()
-            => "Probe";
+            => nameof(Probe);
     }
 }

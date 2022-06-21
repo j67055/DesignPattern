@@ -3,6 +3,6 @@
     class SCV : Worker
     {
         public override string ToString()
-            => "SCV";
+            => nameof(SCV);
     }
 }

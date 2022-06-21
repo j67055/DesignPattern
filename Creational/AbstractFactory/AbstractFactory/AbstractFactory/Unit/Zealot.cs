@@ -3,6 +3,6 @@
     class Zealot : Unit
     {
         public override string ToString()
-            => "Zealot";
+            => nameof(Zealot);
     }
 }

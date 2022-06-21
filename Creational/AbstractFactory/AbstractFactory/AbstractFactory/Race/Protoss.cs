@@ -3,6 +3,6 @@
     class Protoss : Race
     {
         public override string ToString()
-            => "Protoss" + base.ToString();
+            => nameof(Protoss) + base.ToString();
     }
 }
