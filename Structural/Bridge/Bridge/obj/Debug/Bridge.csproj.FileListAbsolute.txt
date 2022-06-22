@@ -1,0 +1,8 @@
+C:\Users\j6705\Desktop\DesignPatterns\Structural\Bridge\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\j6705\Desktop\DesignPatterns\Structural\Bridge\Bridge\bin\Debug\Bridge.exe
+C:\Users\j6705\Desktop\DesignPatterns\Structural\Bridge\Bridge\bin\Debug\Bridge.pdb
+C:\Users\j6705\Desktop\DesignPatterns\Structural\Bridge\Bridge\obj\Debug\Bridge.csproj.AssemblyReference.cache
+C:\Users\j6705\Desktop\DesignPatterns\Structural\Bridge\Bridge\obj\Debug\Bridge.csproj.SuggestedBindingRedirects.cache
+C:\Users\j6705\Desktop\DesignPatterns\Structural\Bridge\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\j6705\Desktop\DesignPatterns\Structural\Bridge\Bridge\obj\Debug\Bridge.exe
+C:\Users\j6705\Desktop\DesignPatterns\Structural\Bridge\Bridge\obj\Debug\Bridge.pdb
