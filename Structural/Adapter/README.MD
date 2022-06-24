@@ -1,1 +1,1 @@
-![Adapter](https://user-images.githubusercontent.com/69672253/174789196-b7b4ef5d-cb46-4a19-9b8e-5efcb4bd52e8.png)
+![Adapter](https://user-images.githubusercontent.com/69672253/175519902-c9ef0326-b8fc-4430-8eea-074ca9aa0780.png)
