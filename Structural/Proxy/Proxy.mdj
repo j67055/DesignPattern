@@ -75,7 +75,7 @@
 											"font": "Arial;13;0",
 											"left": -112,
 											"top": -16,
-											"width": 73.67724609375,
+											"width": 78.12060546875,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -307,7 +307,7 @@
 											"font": "Arial;13;0",
 											"left": -64,
 											"top": -16,
-											"width": 73.67724609375,
+											"width": 78.12060546875,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -384,7 +384,7 @@
 											"top": 164,
 											"width": 175.1953125,
 											"height": 13,
-											"text": "-Cinematic real",
+											"text": "-real: Cinematic",
 											"horizontalAlignment": 0
 										}
 									],
@@ -557,7 +557,7 @@
 											"font": "Arial;13;0",
 											"left": -208,
 											"top": -128,
-											"width": 73.67724609375,
+											"width": 78.12060546875,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -993,8 +993,11 @@
 							"_parent": {
 								"$ref": "AAAAAAGBpCPbx/s54mc="
 							},
-							"name": "Cinematic real",
-							"visibility": "private"
+							"name": "real",
+							"visibility": "private",
+							"type": {
+								"$ref": "AAAAAAGBpCOsLvsJ9Jc="
+							}
 						}
 					],
 					"operations": [
