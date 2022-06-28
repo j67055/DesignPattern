@@ -9,7 +9,7 @@ namespace Bridge
             Shop bbq = new Shop(new BBQ());
             simuate("BBQ", bbq);
 
-            Shop onlineHimart = new OnlineShop(new Himart());
+            Shop onlineHimart = new OnlineShop(new HiMart());
             simuate("Online Himart", onlineHimart);
         }
 

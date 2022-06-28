@@ -1,6 +1,6 @@
 ﻿namespace Bridge
 {
-    class Himart : ShopHandle
+    class HiMart : ShopHandle
     {
         public override int getDeliveryFee()
             => 20000;
@@ -9,6 +9,6 @@
             => 10000000;
 
         public override bool isSupportAS()
-         => true;
+            => true;
     }
 }

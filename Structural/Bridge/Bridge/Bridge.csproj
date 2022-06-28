@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ShopHandle\BBQ.cs" />
-    <Compile Include="ShopHandle\Himart.cs" />
+    <Compile Include="ShopHandle\HiMart.cs" />
     <Compile Include="ShopHandle\Kyobo.cs" />
     <Compile Include="Shop\OnlineShop.cs" />
     <Compile Include="Program.cs" />
