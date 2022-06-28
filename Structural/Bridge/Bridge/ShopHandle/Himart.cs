@@ -9,6 +9,6 @@
             => 10000000;
 
         public override bool isSupportAS()
-         => true;
+           => true;
     }
 }
