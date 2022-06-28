@@ -353,7 +353,7 @@
 											"font": "Arial;13;0",
 											"left": 400,
 											"top": 16,
-											"width": 73.67724609375,
+											"width": 78.12060546875,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -583,7 +583,7 @@
 											"font": "Arial;13;0",
 											"left": -80,
 											"top": -16,
-											"width": 73.67724609375,
+											"width": 78.12060546875,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -796,7 +796,7 @@
 											"font": "Arial;13;0",
 											"left": 272,
 											"top": 352,
-											"width": 73.67724609375,
+											"width": 78.12060546875,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -1026,7 +1026,7 @@
 											"font": "Arial;13;0",
 											"left": -416,
 											"top": -48,
-											"width": 73.67724609375,
+											"width": 78.12060546875,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -1243,7 +1243,7 @@
 											"top": 188,
 											"width": 124.6298828125,
 											"height": 13,
-											"text": "Himart"
+											"text": "HiMart"
 										},
 										{
 											"_type": "LabelView",
@@ -1254,7 +1254,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 224,
-											"width": 73.67724609375,
+											"width": 78.12060546875,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -1823,9 +1823,9 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 300,
+									"left": 298,
 									"top": 94,
-									"width": 43.72900390625,
+									"width": 47.32177734375,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -2464,7 +2464,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Himart",
+					"name": "HiMart",
 					"ownedElements": [
 						{
 							"_type": "UMLGeneralization",
