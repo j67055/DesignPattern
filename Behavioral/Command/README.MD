@@ -1,2 +1,1 @@
-![Command](https://user-images.githubusercontent.com/69672253/176412523-edfc80cd-cc8c-4fef-b640-56a76378aac9.png)
-
+![Command](https://user-images.githubusercontent.com/69672253/176412900-c7c6d89d-7037-4dc8-82d7-570059fda6e4.png)
