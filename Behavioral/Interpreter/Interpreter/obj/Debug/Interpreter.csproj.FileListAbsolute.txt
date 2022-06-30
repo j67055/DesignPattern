@@ -1,0 +1,8 @@
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\Interpreter\Interpreter\bin\Debug\Interpreter.exe.config
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\Interpreter\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\Interpreter\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\Interpreter\Interpreter\obj\Debug\Interpreter.csproj.AssemblyReference.cache
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\Interpreter\Interpreter\obj\Debug\Interpreter.csproj.SuggestedBindingRedirects.cache
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\Interpreter\Interpreter\obj\Debug\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\Interpreter\Interpreter\obj\Debug\Interpreter.exe
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\Interpreter\Interpreter\obj\Debug\Interpreter.pdb
