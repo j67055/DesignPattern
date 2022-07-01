@@ -1,0 +1,8 @@
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\Iterator\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\Iterator\Iterator\bin\Debug\Iterator.exe
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\Iterator\Iterator\bin\Debug\Iterator.pdb
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\Iterator\Iterator\obj\Debug\Iterator.csproj.AssemblyReference.cache
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\Iterator\Iterator\obj\Debug\Iterator.csproj.SuggestedBindingRedirects.cache
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\Iterator\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\Iterator\Iterator\obj\Debug\Iterator.exe
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\Iterator\Iterator\obj\Debug\Iterator.pdb
