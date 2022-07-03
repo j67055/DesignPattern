@@ -1,0 +1,8 @@
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\Memento\Memento\bin\Debug\Memento.exe.config
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\Memento\Memento\bin\Debug\Memento.exe
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\Memento\Memento\bin\Debug\Memento.pdb
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\Memento\Memento\obj\Debug\Memento.csproj.AssemblyReference.cache
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\Memento\Memento\obj\Debug\Memento.csproj.SuggestedBindingRedirects.cache
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\Memento\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\Memento\Memento\obj\Debug\Memento.exe
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\Memento\Memento\obj\Debug\Memento.pdb
