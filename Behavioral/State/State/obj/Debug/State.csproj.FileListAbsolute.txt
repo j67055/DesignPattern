@@ -1,0 +1,8 @@
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\State\State\bin\Debug\State.exe.config
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\State\State\bin\Debug\State.exe
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\State\State\bin\Debug\State.pdb
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\State\State\obj\Debug\State.csproj.AssemblyReference.cache
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\State\State\obj\Debug\State.csproj.SuggestedBindingRedirects.cache
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\State\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\State\State\obj\Debug\State.exe
+C:\Users\j6705\Desktop\Git\DesignPattern\Behavioral\State\State\obj\Debug\State.pdb
