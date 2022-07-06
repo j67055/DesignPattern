@@ -1,0 +1,8 @@
+C:\Users\j6705\Desktop\Git\TAP\Strategy\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\j6705\Desktop\Git\TAP\Strategy\Strategy\bin\Debug\Strategy.exe
+C:\Users\j6705\Desktop\Git\TAP\Strategy\Strategy\bin\Debug\Strategy.pdb
+C:\Users\j6705\Desktop\Git\TAP\Strategy\Strategy\obj\Debug\Strategy.csproj.AssemblyReference.cache
+C:\Users\j6705\Desktop\Git\TAP\Strategy\Strategy\obj\Debug\Strategy.csproj.SuggestedBindingRedirects.cache
+C:\Users\j6705\Desktop\Git\TAP\Strategy\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\j6705\Desktop\Git\TAP\Strategy\Strategy\obj\Debug\Strategy.exe
+C:\Users\j6705\Desktop\Git\TAP\Strategy\Strategy\obj\Debug\Strategy.pdb
