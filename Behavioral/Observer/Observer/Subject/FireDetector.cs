@@ -23,7 +23,7 @@ namespace Observer
             if (isOnFire)
                 Console.WriteLine("화재 감지");
             else
-                Console.WriteLine("화재 감지 안됨");
+                Console.WriteLine("화재 감지 안 됨");
 
             IsActive = isOnFire;
             notify();
